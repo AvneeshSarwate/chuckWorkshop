@@ -33,7 +33,7 @@ while(k < 2) {
 //--------------------------------------------------------------
 
 //SECTION 2 - built in data structures
-//ChucK's only collection is a built combination of
+//ChucK's only built in collection is a combination of
 //array, stack, and hashmap-with-string-keys
 
 //integers are initialized to 0
