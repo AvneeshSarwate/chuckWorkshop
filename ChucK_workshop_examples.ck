@@ -35,6 +35,7 @@ while(k < 2) {
 //SECTION 2 - built in data structures
 
 //integers are initialized to 0
+//NOTE - no difference between declaration and instantiation
 int ar[1]; 
 
 //syntax for appending to end of array
